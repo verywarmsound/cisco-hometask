@@ -1,0 +1,17 @@
+{
+  "tags": {
+    "animals": {
+      "documents": ["http://example.com/doc1", "http://example.com/doc2"],
+      "subTags": {
+        "mammals": {
+          "documents": ["http://example.com/doc3"],
+          "subTags": {}
+        },
+        "birds": {
+          "documents": ["http://example.com/doc4"],
+          "subTags": {}
+        }
+      }
+    }
+  }
+}
