@@ -1,4 +1,4 @@
-# Project Title
+# Homework Assignment
 
 This project consists of two main tasks. One is located in the `backend` folder and the other in the `python-tasks` folder.
 
